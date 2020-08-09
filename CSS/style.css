@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0; box-sizing: border-box;font-family: 'Josefin Sans', sans-serif;}
+
+
+.carousel-inner img{
+	width: 100%;
+	height:90vh;
+}
+
+.aboutimg{
+	width: 100%;
+	height: 250px!important;
+}
+
+
+
+.jumbotron{
+	 margin-top: 20px; background-size: cover;
+	 background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F281260%2Fpexels-photo-281260.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fblue%2F&tbnid=MnOO1RdE8XNbkM&vet=12ahUKEwit3fCc-4rrAhWPGbcAHeEADMAQMygAegUIARDPAQ..i&docid=_omH5Qo1AHpyIM&w=500&h=331&q=blue%20images&ved=2ahUKEwit3fCc-4rrAhWPGbcAHeEADMAQMygAegUIARDPAQ.jpg");
+}
